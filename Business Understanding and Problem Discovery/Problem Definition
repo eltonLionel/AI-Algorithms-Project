@@ -1,0 +1,8 @@
+# Business Understanding and Problem Definition for Image Search/Image Classifier
+
+1) Using Machine Learning Algorithms that will recognize scenes and objects in images to save time and effort.
+2) Providing the Convenience of image search to improve user experience.
+3) Image pre-processing and storage in a required size and format to train the model.
+4) Large dataset with enough variance to capture characteristics of each category.
+5) Leveraging the existing libraries in Deep learning (Keras, TensorFlow, ImageAI) for image recognition.
+6) Tuning the model for accuracy and consistency.
