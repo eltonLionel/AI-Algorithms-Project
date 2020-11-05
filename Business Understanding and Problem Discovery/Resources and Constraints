@@ -1,1 +1,14 @@
+# Resources and Constraints.
 
+* Based on the project to identify professions, Reference : https://towardsdatascience.com/train-image-recognition-ai-with-5-lines-of-code-8ed0bdd8d9ba
+we can use similar approach to identify obejcts and thier categories.
+
+* Since the scope of the project is limited we will have to restrict the search field to a small set of outcomes for example: smartphones of a particular brand or different kinds of running shoes etc.
+
+* A minimum of 500-900 images per category would be required to achive desired amount of accuracy.
+
+* Each image has to be resized and reformatted to have same resolution and format.
+
+* Training the model offline and deploying it online to save storage space on the server to optimize runtime.
+
+* Training resources are images available online, but would need to be webscraped to gathe enough datapoints.
