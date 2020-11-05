@@ -1,4 +1,4 @@
-# AI Algorithms Project
+# AI Algorithms Project : Image Classifier Web App
 
 # Documentation includes:
 # 1) Business Understanding and Problem Discovery
