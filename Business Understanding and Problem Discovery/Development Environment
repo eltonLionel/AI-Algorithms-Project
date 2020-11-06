@@ -1,0 +1,6 @@
+# Development Environment
+
+1) Python - Jupyter Notebook to deevelop and test 
+2) TensorFlow, Keras and ImageAI framework to build the model
+3) Flask Web App for the front end
+4) Hosting on AWS/Pythonanywhere/Azure based on complexity 
