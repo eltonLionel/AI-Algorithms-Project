@@ -1,9 +1,15 @@
 # Testing and Quality control
 
 *Since most of the data for the training set are images, selected specifically, we can eliminate most cases of data discrepancy.
+
 *Just to make sure the data is in order, we can also add an extra step to check for data consistency before feedding the data to the model.
+
 *Cross validation is one of the method we could consider to see which model would fit best and stratified k sampling will ensure data model has been trained satisfactorily.
+
 *Input data checks will ensure the search criteria is not violated and ensures consistency. 
+
 *Training data on a large enough data set will prevent overfitting of the model.
+
 *Based on the model output, we can further tune the model parameters to boost accuracy. 
+
 *We can try to log each case of mis-identified image and program accordingly to handle exceptions.
