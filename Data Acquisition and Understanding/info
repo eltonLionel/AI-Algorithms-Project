@@ -1,1 +1,9 @@
 # Data Acquisition and Understanding
+
+* VGG16 – Convolutional Network for Classification and Detection
+
+* VGG16 is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford.
+
+* The model achieves 92.7% top-5 test accuracy in ImageNet, which is a dataset of over 14 million images belonging to 1000 classes
+
+
