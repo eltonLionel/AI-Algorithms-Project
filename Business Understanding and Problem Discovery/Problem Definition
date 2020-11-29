@@ -8,6 +8,6 @@
 
 4) Large dataset with enough variance to capture characteristics of each category.
 
-5) Leveraging the existing libraries in Deep learning (Keras, TensorFlow, ImageAI) for image recognition.
+5) Leveraging the existing libraries in Deep learning (Keras, TensorFlow, CNN, Deeplearning, VGG16) for image recognition.
 
 6) Tuning the model for accuracy and consistency.
