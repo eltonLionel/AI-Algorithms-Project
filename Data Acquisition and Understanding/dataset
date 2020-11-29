@@ -1,0 +1,15 @@
+#dataset (API)
+
+* http://www.image-net.org/about-overview
+
+* ImageNet is an image database organized according to the WordNet hierarchy
+
+* ImageNet has each node of the hierarchy is depicted by hundreds and thousands of images.
+
+* ImageNet is a useful resource to researchers in the academic world, as well as educators around the world.
+
+* ImageNet does not own the copyright of the images. ImageNet only provides thumbnails and URLs of images, in a way similar to what image search engines do.
+
+* Access the list of synsets available
+You can use the following API to obtain a list of all synsets available
+http://www.image-net.org/api/text/imagenet.synset.obtain_synset_list
