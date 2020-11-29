@@ -1,9 +1,11 @@
 # Development Environment
 
-1) Python - Jupyter Notebook to deevelop and test 
+1) Python - Jupyter Notebook to develop and test 
 
-2) TensorFlow, Keras and ImageAI framework to build the model
+2) TensorFlow, Keras and VGG16 framework to build the model
 
-3) Flask Web App for the front end
+3) ImageNet dataset to train the model
 
-4) Hosting on AWS/Pythonanywhere/Azure based on complexity 
+4) Flask Web App for the front end
+
+5) Hosting on AWS/Pythonanywhere/Azure based on complexity 
