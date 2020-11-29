@@ -1,14 +1,16 @@
 # Resources and Constraints.
 
-* Based on the project to identify professions, Reference : https://towardsdatascience.com/train-image-recognition-ai-with-5-lines-of-code-8ed0bdd8d9ba
+* Based on the project to identify professions, 
+
+Reference : 
+1)https://towardsdatascience.com/train-image-recognition-ai-with-5-lines-of-code-8ed0bdd8d9ba
+2)https://medium.com/@arifulislam_ron/flask-web-application-to-classify-image-using-vgg16-d9c46f29c4cd
 we can use similar approach to identify obejcts and thier categories.
 
-* Since the scope of the project is limited we will have to restrict the search field to a small set of outcomes for example: smartphones of a particular brand or different kinds of running shoes etc.
+* Scope of the project is to identify objects based on the images uploaded, for example: identifying animals, objects, flowers, fruits etc.
 
-* A minimum of 500-900 images per category would be required to achive desired amount of accuracy.
+* Images from ImageNet library is used to train the model per category, that would be required to achive desired amount of accuracy.
 
 * Each image has to be resized and reformatted to have same resolution and format.
 
 * Training the model offline and deploying it online to save storage space on the server to optimize runtime.
-
-* Training resources are images available online, but would need to be webscraped to gathe enough datapoints.
