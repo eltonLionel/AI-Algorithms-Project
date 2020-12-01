@@ -1,1 +1,7 @@
 # data access using API
+
+* URLs can be downloaded from the URL http://www.image-net.org/api/text/imagenet.synset.geturls?wnid= followed by the wnid and this can be done with the Python library BeautifulSoup
+
+* To get desired images on ImageNet, get a list of their URLS, download them, and store some of them on a directory (train) that can later be used to train an image recognition model
+
+* Validation images stored in a seperate directory (validation) that can later be used to validate the trained model.
