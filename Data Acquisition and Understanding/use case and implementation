@@ -1,0 +1,11 @@
+# usecase and implementation
+
+* The VGG net is used in many deep learning image classification problems; 
+
+* Smaller network architectures are often more desirable (such as SqueezeNet, GoogLeNet, etc.). It is a great building block for learning purpose as it is easy to implement.
+
+Unfortunately, there are two major drawbacks with VGGNet:
+
+* It is painfully slow to train.
+
+* The network architecture weights themselves are quite large. This makes deploying VGG a tiresome task.
