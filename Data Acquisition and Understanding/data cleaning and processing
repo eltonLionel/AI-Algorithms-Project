@@ -12,4 +12,8 @@
 
 * Basically most of the cleaning would involve decoding an image and converting it to a numpy array of a the desired shape.
 
+* On ImageNet, the images have been down-sampled to a fixed resolution of 256×256. 
+
+* Given a rectangular image, the image is rescaled and cropped out the central 256×256 patch from the resulting image.
+
 * the traditional EDA and cleaning done on table/database/csv/numerical/categorical data does not apply.
