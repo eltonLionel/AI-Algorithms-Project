@@ -1,0 +1,5 @@
+# model
+
+* Training a new model on images is a tedious and time consuming task requiring a lot of resources
+* Lots of trained models are available online to be worked by tweeking the kernel to suit our application
+* Here we will be deploying the VGG16 Trained model for our image identifier application
